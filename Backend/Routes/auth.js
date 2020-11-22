@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express.Router()
-const {login,addTeacher, getTeacherData} = require('../Controller/controller')
+const {login,addTeacher, getTeacherData,deleteTeacher,getTeachersPage} = require('../Controller/controller')
 const mongoose = require('mongoose')
 const multer = require('multer')
 const path = require('path')
@@ -37,6 +37,8 @@ const upload = multer({
 router.post("/login", login)
 router.post("/addTeacher",addTeacher)
 router.get("/getTeacherData",getTeacherData)
+router.delete("/deleteTeacher",deleteTeacher)
+router.get('/pagination',getTeachersPage)
 
 
 module.exports = router

@@ -1,0 +1,335 @@
+[
+    {
+        "name": "Sasi",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 32,
+        "grade": "4th",
+        "section": "B",
+        "subject": "English"
+    },
+    {
+        "name": "Benazir",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 27,
+        "grade": "3rd",
+        "section": "A",
+        "subject": "Maths"
+    },
+    {
+        "name": "Suguna",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 30,
+        "grade": "3rd",
+        "section": "A",
+        "subject": "English"
+    },
+    {
+        "name": "Ramya",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 31,
+        "grade": "2nd",
+        "section": "A",
+        "subject": "Social Science"
+    },
+    {
+        "name": "Jenifer",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 26,
+        "grade": "2nd",
+        "section": "A",
+        "subject": "Science"
+    },
+    {
+        "name": "Jessy",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 22,
+        "grade": "2nd",
+        "section": "A",
+        "subject": "Maths"
+    },
+    {
+        "name": "Saravanan",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 32,
+        "grade": "2nd",
+        "section": "A",
+        "subject": "English"
+    },
+    {
+        "name": "Anitha",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 43,
+        "grade": "UKG",
+        "section": "B",
+        "subject": "Social Science"
+    },
+    {
+        "name": "Saranya",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 32,
+        "grade": "UKG",
+        "section": "B",
+        "subject": "Science"
+    },
+    {
+        "name": "Rama devi",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 37,
+        "grade": "UKG",
+        "section": "B",
+        "subject": "Maths"
+    },
+    {
+        "name": "Primila Devi",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 27,
+        "grade": "UKG",
+        "section": "B",
+        "subject": "English"
+    },
+    {
+        "name": "Poornima",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 34,
+        "grade": "5th",
+        "section": "A",
+        "subject": "English"
+    },
+    {
+        "name": "Bhuvaneshwari",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 33,
+        "grade": "1st",
+        "section": "B",
+        "subject": "Social Science"
+    },
+    {
+        "name": "Yamuna",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 28,
+        "grade": "1st",
+        "section": "B",
+        "subject": "Science"
+    },
+    {
+        "name": "Shalini",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 33,
+        "grade": "1st",
+        "section": "B",
+        "subject": "English"
+    },
+    {
+        "name": "Sharmila",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 34,
+        "grade": "7th",
+        "section": "A",
+        "subject": "Maths"
+    },
+    {
+        "name": "Arjun prasad",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Male",
+        "age": 32,
+        "grade": "6th",
+        "section": "A",
+        "subject": "Enviroinmental Science"
+    },
+    {
+        "name": "Manideep",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Male",
+        "age": 31,
+        "grade": "5th",
+        "section": "C",
+        "subject": "Tamil"
+    },
+    {
+        "name": "Manish",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Male",
+        "age": 26,
+        "grade": "6th",
+        "section": "C",
+        "subject": "Science"
+    },
+    {
+        "name": "Ashish Raj",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Male",
+        "age": 32,
+        "grade": "4th",
+        "section": "A",
+        "subject": "English"
+    },
+    {
+        "name": "Sushma",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 37,
+        "grade": "5th",
+        "section": "C",
+        "subject": "Tamil"
+    },
+    {
+        "name": "Arjun",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Male",
+        "age": 30,
+        "grade": "6th",
+        "section": "A",
+        "subject": "Science"
+    },
+    {
+        "name": "Krithika",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 35,
+        "grade": "7th",
+        "section": "B",
+        "subject": "Science"
+    },
+    {
+        "name": "Chinkul",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 32,
+        "grade": "lkg",
+        "section": "B",
+        "subject": "Kannada"
+    },
+    {
+        "name": "Sonu",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 32,
+        "grade": "1st",
+        "section": "B",
+        "subject": "Telugu"
+    },
+    {
+        "name": "Divya",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 31,
+        "grade": "8th",
+        "section": "B",
+        "subject": "Tamil"
+    },
+    {
+        "name": "Rithesh",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Male",
+        "age": 32,
+        "grade": "7th",
+        "section": "B",
+        "subject": "Hindi"
+    },
+    {
+        "name": "Priya",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 39,
+        "grade": "4th",
+        "section": "A",
+        "subject": "Maths"
+    },
+    {
+        "name": "Vijayalakshmi",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 35,
+        "grade": "5th",
+        "section": "A",
+        "subject": "Enviroinmental Science"
+    },
+    {
+        "name": "Kunguma Lakshmi",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 32,
+        "grade": "6th",
+        "section": "B",
+        "subject": "Social Science"
+    },
+    {
+        "name": "Shanmuga Priya",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 30,
+        "grade": "3rd",
+        "section": "C",
+        "subject": "Spoken English"
+    },
+    {
+        "name": "Deepika",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 37,
+        "grade": "2nd",
+        "section": "A",
+        "subject": "Drawing"
+    },
+    {
+        "name": "Sindhu",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 39,
+        "grade": "10th",
+        "section": "A",
+        "subject": "English"
+    },
+    {
+        "name": "Sakthi",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Male",
+        "age": 36,
+        "grade": "10th",
+        "section": "B",
+        "subject": "Social"
+    },
+    {
+        "name": "Jagadesh",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Male",
+        "age": 40,
+        "grade": "7th",
+        "section": "B",
+        "subject": "Science"
+    },
+    {
+        "name": "Sheelu",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Female",
+        "age": 28,
+        "grade": "9th",
+        "section": "C",
+        "subject": "French"
+    },
+    {
+        "name": "Aravind",
+        "avatar":"https://i.pinimg.com/originals/8d/f7/42/8df742ad90ca58d3068fb3d7d2ba250f.png", 
+        "gender": "Male",
+        "age": 29,
+        "grade": "8th",
+        "section": "A",
+        "subject": "Maths"
+    }
+]
